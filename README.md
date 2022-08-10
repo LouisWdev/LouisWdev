@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, My name is Louis Wackenier.</h1>
-<h3 align="center">A passionate front end developer.</h3>
+<h3 align="center">A passionate front end and back end developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiswackenier&label=Profile%20views&color=0e75b6&style=flat" alt="louiswackenier" /> </p>
