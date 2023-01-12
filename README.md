@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louiswackenier" alt="louiswackenier" /></a> </p>
 
-- 🔭 I’m currently working on a webstore **memeify store**
+- 🔭 I’m currently working on Fullstack development projects
 
 - 🌱 I’m currently learning **C#, Python**
 
