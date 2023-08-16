@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on Fullstack development projects
 
-- 🌱 I’m currently learning **C#, Python**
-
 - 📫 How to reach me **louis.wackenier@gmail.com**
 
 <p align="left">
